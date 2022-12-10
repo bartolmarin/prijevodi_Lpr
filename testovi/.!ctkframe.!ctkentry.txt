@@ -1,0 +1,36 @@
+
+
+
+1. ZADATAK
+
+∀x(Ox→∃y(¬By∧¬Vxy))
+Vaš odgovor je: ""
+Očekivani odgovor je: Opaki su samo oni koji ne vole neke koji nisu blagi.
+
+
+
+
+
+2. ZADATAK
+
+∀x∀y(x=y→¬Vxy)
+Vaš odgovor je: ""
+Očekivani odgovor je: Nitko ne voli sebe.
+
+
+
+
+
+3. ZADATAK
+
+∀x∀yMxy→∀x∀y¬Vxy
+Vaš odgovor je: ""
+Očekivani odgovor je: Ako svatko mrzi svakoga, onda nitko nikoga ne voli.
+
+
+
+
+
+4. ZADATAK
+
+∀x∀y(Mxy→Vyx)

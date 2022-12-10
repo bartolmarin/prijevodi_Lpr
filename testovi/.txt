@@ -1,0 +1,12 @@
+
+
+
+1. ZADATAK
+
+∀x∀y(Mxy→¬Vyx)
+
+
+
+1. ZADATAK
+
+∀x(∀yMxy→¬∀yVyx)

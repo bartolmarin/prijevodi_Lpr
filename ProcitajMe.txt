@@ -1,0 +1,6 @@
+
+Vidi dokumentaciju:
+
+https://github.com/TomSchimansky/CustomTkinter/tree/master/examples
+https://github.com/TomSchimansky/CustomTkinter/wiki/CTkButton
+
